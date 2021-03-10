@@ -4,7 +4,7 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{cicerotcv}/count.svg" alt="cicerotcv :: Visitor's Count" /></p>
 
-<p style="font-family:monospace; line-height: 22px" align="center">
+<p align="center">
 You have finally discovered my Github profile.<br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br>
 Ask me anything <a href="https://github.com/cicerotcv/cicerotcv/issues/new"><b>here</b></a>
