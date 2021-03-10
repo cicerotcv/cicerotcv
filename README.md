@@ -21,9 +21,8 @@ or <a href="mailto:elm.tiago@gmail.com" class="green"><strong>email</strong></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerotcv&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=radical" alt="cicerotcv's Top Languages" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cicerotcv&count_private=true&theme=radical" alt="cicerotcv's streaks" height="200"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cicerotcv&layout=compact&langs_count=6&hide=jupyter%20notebook&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,330F40" alt="cicerotcv's Wakatime Stats" /> -->
-</span> 
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cicerotcv&count_private=true&theme=radical" alt="cicerotcv's Wakatime Stats" height="200"/> 
+</span>
 <br>
 <hr>
 <h3 align="center">🛠 Some technologies I've been working with</h3> 
