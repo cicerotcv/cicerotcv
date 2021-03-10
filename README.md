@@ -16,13 +16,14 @@ or <a href="mailto:elm.tiago@gmail.com" class="green"><strong>email</strong></a>
 <!-- github stats -->
 <h3 align="center">⚙️  GitHub Analytics</h3>
 
-<span align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cicerotcv&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=radical" alt="cicerotcv's Github Stats" height="200"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerotcv&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=radical" alt="cicerotcv's Top Languages" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cicerotcv&count_private=true&theme=radical" alt="cicerotcv's streaks" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cicerotcv&count_private=true&theme=radical" alt="cicerotcv's Wakatime Stats" height="200"/> 
-</span>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cicerotcv&count_private=true&theme=radical" alt="cicerotcv's streaks" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cicerotcv&count_private=true&theme=radical" alt="cicerotcv's Wakatime Stats" height="160"/> 
+</p>
+
 <br>
 <hr>
 <h3 align="center">🛠 Some technologies I've been working with</h3> 
