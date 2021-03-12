@@ -63,7 +63,7 @@ or <a href="mailto:elm.tiago@gmail.com" class="green"><strong>email</strong></a>
 <hr>
 <h3 align="center">🤝🏻 Connect with Me</h3>
 
-<p align="center">
+<p align="center" style="max-width: 50rem">
 <a href="https://www.linkedin.com/in/ctiagocv" target="_blank"><img src="https://img.shields.io/badge/ctiagocv-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ctiagocv" target="_blank"><img src="https://img.shields.io/badge/ctiagocv-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/cicero.tiago" target="_blank"><img src="https://img.shields.io/badge/cicero.tiago-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -72,5 +72,15 @@ or <a href="mailto:elm.tiago@gmail.com" class="green"><strong>email</strong></a>
 </a>
 <a href="mailto:elm.tiago@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/elm.tiago-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="mailto:cicerotcv@protonmail.com" target="_blank">
+<img src="https://img.shields.io/badge/cicerotcv-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail">
+</a>
+<img src="https://img.shields.io/badge/Cicero_Tiago%236374-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<a href="https://steamcommunity.com/profiles/76561198373822280" target="_blank">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+</a>
+<a href="https://account.xbox.com/pt-br/profile?gamertag=Cicero%20Aurelius" target="_blank">
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
 </a>
 </p>
