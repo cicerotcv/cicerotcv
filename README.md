@@ -19,7 +19,7 @@ or <a href="mailto:elm.tiago@gmail.com" class="green"><strong>email</strong></a>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cicerotcv&include_all_commits=true&count_private=true&show_icons=true&line_height=33&theme=radical" alt="cicerotcv's Github Stats" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerotcv&layout=compact&count_private=true&langs_count=8&hide=jupyter%20notebook&theme=radical" alt="cicerotcv's Top Languages" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cicerotcv&theme=radical&layout=compact&count_private=true" alt="cicerotcv's Wakatime Stats" height="175"/> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=cicerotcv&layout=compact&theme=radical&count_private=true" alt="cicerotcv's Wakatime Stats" height="175"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cicerotcv&count_private=true&theme=radical" alt="cicerotcv's streaks" height="175"/>
 </p>
 
