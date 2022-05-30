@@ -93,3 +93,12 @@ or <a href="mailto:elm.tiago@gmail.com" class="green"><strong>email</strong></a>
 <!-- <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox"> -->
 <!-- </a> -->
 </p>
+
+<p align="center" style="max-width: 50rem">
+<a href="https://buymeabitcoffee.vercel.app/btc/15NvrWRS8DXNufF9i1xJTMmZAcxRZat8Hi">
+  <img src="https://buymeabitcoffee.vercel.app/api/btc?style=for-the-badge" alt="Bitcoin address">
+</a>
+<a href="https://buymeabitcoffee.vercel.app/eth/0xc2f6ac7ddf4df7d1b68908b81f97dd3aa0c36675">
+  <img src="https://buymeabitcoffee.vercel.app/api/eth?style=for-the-badge" alt="Ethereum Address">
+</a>
+</p>
