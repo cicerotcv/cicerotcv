@@ -96,7 +96,7 @@ or <a href="mailto:elm.tiago@gmail.com" class="green"><strong>email</strong></a>
 </p>
 
 <p align="center" style="max-width: 50rem">
-<a href="https://buymeabitcoffee.vercel.app/btc/15NvrWRS8DXNufF9i1xJTMmZAcxRZat8Hi">
+<a href="https://buymeabitcoffee.vercel.app/btc/bc1qw4q8nn7pknen33han7znsv6zhrrfta53sr86fw?identifier=Cicero">
   <img src="https://buymeabitcoffee.vercel.app/api/btc?style=for-the-badge" alt="Bitcoin address">
 </a>
 </p>
